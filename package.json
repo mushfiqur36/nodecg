@@ -18,7 +18,7 @@
     "broadcast"
   ],
   "dependencies": {
-    "@babel/core": "^7.4.3",
+    "@babel/core": "^7.21.3",
     "@polymer/app-layout": "^3.0.0",
     "@polymer/app-route": "^3.0.0",
     "@polymer/iron-collapse": "^3.0.0",
